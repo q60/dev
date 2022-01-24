@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dev.veleth.cyou/sitemap.xml

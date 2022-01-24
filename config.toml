@@ -1,0 +1,40 @@
+# The URL the site will be built for
+base_url = "https://dev.veleth.cyou"
+title = "uwu dev blog"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "zerm"
+taxonomies = [
+  {name = "tags"},
+  {name = "categories"},
+]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+# Put all your custom variables here
+theme_color = "orange"
+
+logo_text = "v"
+
+author = "Kira"
+show_author = true
+
+show_categories = true
+show_tags = true
+read_more = "read more"
+
+show_menu_items = 3
+main_menu = [
+  {url="/about/", name="about"},
+  {url="/contact/", name="contact"},
+  {url="https://github.com/q60", name="GitHub", external=true},
+]
