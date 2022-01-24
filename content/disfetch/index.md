@@ -9,7 +9,7 @@ tags = ["shell", "posix"]
 +++
 
 # hi
-<span style="font-size:larger;">disfetch</span> is a simple *POSIX Shell* utility that fetches your system information in a prettier way.
+{{accent(text="disfetch",href="https://github.com/q60/disfetch")}} is a simple *POSIX Shell* utility that fetches your system information in a prettier way.
 
 ## why disfetch?
 Unlike many other fetching tools, **disfetch** covers several principles:
@@ -21,9 +21,9 @@ Unlike many other fetching tools, **disfetch** covers several principles:
 
 #### some examples
 <sub>**by me:**</sub>
-<img src="example1.png">
+{{img(src="example1.png")}}
 <sub>**by [https://github.com/Corgiek](https://github.com/Corgiek):**</sub>
-<img src="example2.png">
+{{img(src="example2.png")}}
 
 #### benchmarks
 | fetch                                                                    | `time`                                                 |

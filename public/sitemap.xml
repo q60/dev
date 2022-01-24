@@ -4,6 +4,9 @@
         <loc>https://dev.veleth.cyou/</loc>
     </url>
     <url>
+        <loc>https://dev.veleth.cyou/about/</loc>
+    </url>
+    <url>
         <loc>https://dev.veleth.cyou/categories/</loc>
     </url>
     <url>
@@ -13,7 +16,7 @@
         <loc>https://dev.veleth.cyou/categories/utils/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/content/</loc>
+        <loc>https://dev.veleth.cyou/contact/</loc>
     </url>
     <url>
         <loc>https://dev.veleth.cyou/disfetch/</loc>
