@@ -22,6 +22,7 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 theme_color = "orange"
+center = true
 
 logo_text = "v"
 
