@@ -1,5 +1,8 @@
 +++
 title = "Contact me"
+
+[extra]
+date = 1970-01-01
 +++
 
 | place    | url                                                                         |

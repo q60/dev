@@ -33,7 +33,7 @@ Unlike many other fetching tools, **disfetch** covers several principles:
 | `neofetch`                                                               | **0.16s** user **0.10s** system **57%** cpu **0.443**  |
 | `neofetch --disable resolution theme icons term cpu gpu memory wm_theme` | **0.14s** user **0.07s** system **102%** cpu **0.207** |
 
-## Supported operating systems
+## supported operating systems
 Here's the list of currently supported operating systems.
 
 | distro                   | packages | logo              |
@@ -74,7 +74,7 @@ Here's the list of currently supported operating systems.
 | Void Linux               | yes      | yes               |
 | Zorin OS                 | yes      | yes               |
 
-## Installation
+## installation
 <a href="https://repology.org/project/disfetch/versions">
     <img src="https://repology.org/badge/vertical-allrepos/disfetch.svg" alt="Packaging status">
 </a>
@@ -89,5 +89,5 @@ Here's the list of currently supported operating systems.
 Feel free to contribute, create and maintain packages for disfetch for
 your favorite distros.
 
-## Usage
+## usage
 See `disfetch -h`.

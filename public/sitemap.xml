@@ -13,6 +13,9 @@
         <loc>https://dev.veleth.cyou/categories/code/</loc>
     </url>
     <url>
+        <loc>https://dev.veleth.cyou/categories/libraries/</loc>
+    </url>
+    <url>
         <loc>https://dev.veleth.cyou/categories/utils/</loc>
     </url>
     <url>
@@ -23,15 +26,28 @@
         <lastmod>2022-01-24</lastmod>
     </url>
     <url>
+        <loc>https://dev.veleth.cyou/ex-vk-lib/</loc>
+        <lastmod>2022-01-25</lastmod>
+    </url>
+    <url>
         <loc>https://dev.veleth.cyou/page/1/</loc>
     </url>
     <url>
         <loc>https://dev.veleth.cyou/tags/</loc>
     </url>
     <url>
+        <loc>https://dev.veleth.cyou/tags/api/</loc>
+    </url>
+    <url>
+        <loc>https://dev.veleth.cyou/tags/elixir/</loc>
+    </url>
+    <url>
         <loc>https://dev.veleth.cyou/tags/posix/</loc>
     </url>
     <url>
         <loc>https://dev.veleth.cyou/tags/shell/</loc>
+    </url>
+    <url>
+        <loc>https://dev.veleth.cyou/tags/vk-api/</loc>
     </url>
 </urlset>

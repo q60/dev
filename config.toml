@@ -15,21 +15,17 @@ taxonomies = [
 ]
 
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
-
 render_emoji = true
 
 [extra]
-# Put all your custom variables here
 theme_color = "orange"
 center = true
 
 logo_text = "v"
 
 author = "Kira"
-show_author = true
+show_author = false
 
 show_categories = true
 show_tags = true
