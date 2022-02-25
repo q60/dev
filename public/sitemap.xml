@@ -7,6 +7,10 @@
         <loc>https://dev.veleth.cyou/about/</loc>
     </url>
     <url>
+        <loc>https://dev.veleth.cyou/beginner-cfop/</loc>
+        <lastmod>2022-02-25</lastmod>
+    </url>
+    <url>
         <loc>https://dev.veleth.cyou/categories/</loc>
     </url>
     <url>
@@ -14,6 +18,15 @@
     </url>
     <url>
         <loc>https://dev.veleth.cyou/categories/libraries/</loc>
+    </url>
+    <url>
+        <loc>https://dev.veleth.cyou/categories/puzzles/</loc>
+    </url>
+    <url>
+        <loc>https://dev.veleth.cyou/categories/speedcubing/</loc>
+    </url>
+    <url>
+        <loc>https://dev.veleth.cyou/categories/tutorials/</loc>
     </url>
     <url>
         <loc>https://dev.veleth.cyou/categories/utils/</loc>
@@ -36,7 +49,13 @@
         <loc>https://dev.veleth.cyou/tags/</loc>
     </url>
     <url>
+        <loc>https://dev.veleth.cyou/tags/3x3/</loc>
+    </url>
+    <url>
         <loc>https://dev.veleth.cyou/tags/api/</loc>
+    </url>
+    <url>
+        <loc>https://dev.veleth.cyou/tags/cfop/</loc>
     </url>
     <url>
         <loc>https://dev.veleth.cyou/tags/elixir/</loc>
@@ -46,6 +65,9 @@
     </url>
     <url>
         <loc>https://dev.veleth.cyou/tags/shell/</loc>
+    </url>
+    <url>
+        <loc>https://dev.veleth.cyou/tags/speedcubing/</loc>
     </url>
     <url>
         <loc>https://dev.veleth.cyou/tags/vk-api/</loc>
