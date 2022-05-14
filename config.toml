@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://dev.veleth.cyou"
+base_url = "/"
 title = "uwu dev blog"
 
 # Whether to automatically compile all Sass files in the sass directory
@@ -19,7 +19,7 @@ highlight_code = true
 render_emoji = true
 
 [extra]
-theme_color = "orange"
+theme_color = "pink"
 center = true
 
 logo_text = "v"

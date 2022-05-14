@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://dev.veleth.cyou/</loc>
+        <loc>/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/about/</loc>
+        <loc>/about/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/beginner-cfop/</loc>
+        <loc>/beginner-cfop/</loc>
         <lastmod>2022-02-25</lastmod>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/categories/</loc>
+        <loc>/categories/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/categories/code/</loc>
+        <loc>/categories/code/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/categories/libraries/</loc>
+        <loc>/categories/libraries/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/categories/puzzles/</loc>
+        <loc>/categories/puzzles/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/categories/speedcubing/</loc>
+        <loc>/categories/speedcubing/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/categories/tutorials/</loc>
+        <loc>/categories/tutorials/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/categories/utils/</loc>
+        <loc>/categories/utils/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/contact/</loc>
+        <loc>/contact/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/disfetch/</loc>
+        <loc>/disfetch/</loc>
         <lastmod>2022-01-24</lastmod>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/ex-vk-lib/</loc>
+        <loc>/ex-vk-lib/</loc>
         <lastmod>2022-01-25</lastmod>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/page/1/</loc>
+        <loc>/page/1/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/tags/</loc>
+        <loc>/tags/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/tags/3x3/</loc>
+        <loc>/tags/3x3/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/tags/api/</loc>
+        <loc>/tags/api/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/tags/cfop/</loc>
+        <loc>/tags/cfop/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/tags/elixir/</loc>
+        <loc>/tags/elixir/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/tags/posix/</loc>
+        <loc>/tags/posix/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/tags/shell/</loc>
+        <loc>/tags/shell/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/tags/speedcubing/</loc>
+        <loc>/tags/speedcubing/</loc>
     </url>
     <url>
-        <loc>https://dev.veleth.cyou/tags/vk-api/</loc>
+        <loc>/tags/vk-api/</loc>
     </url>
 </urlset>
